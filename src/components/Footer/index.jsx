@@ -11,8 +11,7 @@ class Footer extends Component {
         var footerClass = classNames(style.root, (this.props.hasvideo) ? null : style.footer)
        return (
            <div className={footerClass}>
-               <h2>Licencia: MIT </h2>
-               <h3>Proyecto mantenido por <a href="#">Niurmiguel</a></h3>
+               <h3>Proyecto mantenido por <a href="https://github.com/Niurmiguel/IVTube">Niurmiguel</a></h3>
            </div>
        )
     }

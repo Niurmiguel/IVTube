@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="358 264 168.504 49"><defs><style>.a{fill:#707070;font-size:20px;font-family:GothamBold, Gotham;}.b{fill:#4493ee;}.c{fill:#fff;}</style></defs><text class="a" transform="translate(409.504 297)"><tspan x="0" y="0">IDown</tspan><tspan class="b" y="0">Tube</tspan></text><circle class="b" cx="24.5" cy="24.5" r="24.5" transform="translate(358 264)"/><g transform="translate(9.895 -2.675)"><g transform="translate(365 279)"><g transform="translate(0)"><path class="c" d="M164.492,120.468,149.55,109.8a2.131,2.131,0,0,0-3.369,1.735v21.346a2.131,2.131,0,0,0,3.369,1.735l14.942-10.672a2.123,2.123,0,0,0,0-3.47Z" transform="translate(-146.181 -109.365)"/></g></g><g transform="translate(369.222 288.499)"><path class="b" d="M23.99,25.859H22.007V22.841a.548.548,0,0,0-.541-.541h-.631a.548.548,0,0,0-.541.541v3.018H18.313c-.315,0-.405.18-.225.405l2.7,3.244a.556.556,0,0,0,.36.18.41.41,0,0,0,.36-.18l2.7-3.244C24.35,26.039,24.26,25.859,23.99,25.859Z" transform="translate(-17.996 -22.3)"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2348 264 124.504 49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+        font-size: 20px;
+        font-family: GothamBold, Gotham;
+      }
+
+      .cls-2 {
+        fill: #4493ee;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_40" data-name="Group 40" transform="translate(1990)">
+    <text id="IVTube" class="cls-1" transform="translate(409.504 297)"><tspan x="0" y="0">IV</tspan><tspan class="cls-2" y="0">Tube</tspan></text>
+    <g id="Group_6" data-name="Group 6">
+      <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(358 264)"/>
+      <g id="Group_4" data-name="Group 4" transform="translate(9.895 -2.675)">
+        <g id="video" transform="translate(365 279)">
+          <g id="Group_3" data-name="Group 3" transform="translate(0)">
+            <path id="Path_12" data-name="Path 12" class="cls-3" d="M164.492,120.468,149.55,109.8a2.131,2.131,0,0,0-3.369,1.735v21.346a2.131,2.131,0,0,0,3.369,1.735l14.942-10.672a2.123,2.123,0,0,0,0-3.47Z" transform="translate(-146.181 -109.365)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

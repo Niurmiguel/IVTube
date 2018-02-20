@@ -31,10 +31,12 @@ class Header extends Component {
                     <SVGInline svg={logo} />
                 </figure>
                 {this._hasVideos()}
-                <figure className={style.logo}>
-                    <SVGInline svg={logoGithub} className={style.logoGithub}/>
-                    <span>Niurmiguel</span>
-                </figure>
+                <a href="https://github.com/Niurmiguel/IVTube">
+                    <figure className={style.logo}>
+                        <SVGInline svg={logoGithub} className={style.logoGithub}/>
+                        <span>Niurmiguel</span>
+                    </figure>
+                </a>
             </header>
         )
     }
