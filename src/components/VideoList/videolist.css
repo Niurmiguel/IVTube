@@ -1,0 +1,9 @@
+.videolist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#content div:nth-child(2) {
+    display: inline-block;
+}

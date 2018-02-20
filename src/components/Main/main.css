@@ -1,0 +1,35 @@
+#content {
+    max-width: 1280px;
+    width: 90%;
+    margin: 100px auto 0;
+}
+
+#result {
+    margin-top: 25px;
+    text-align: center;
+}
+
+#header_content {
+    display: flex;
+    align-items: center;
+    max-width: 89%;
+    margin: auto;
+}
+
+#nResult {
+    max-width: 250px;
+}
+
+#nResult h3 {
+    display: flex;
+    font-size: 16px;
+}
+
+#viewType {
+    max-width: 100px;
+}
+
+#viewType svg {
+    margin: 0 10px;
+    font-size: 24px;
+}

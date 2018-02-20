@@ -1,0 +1,52 @@
+.root {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header {
+    padding: 1em 5em;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    background: #fff;
+    box-shadow: 0 1px 0px #ccc;
+}
+
+.logo {
+    max-width: 125px;
+    padding: 0;
+    margin: 0;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+}
+
+.logo span {
+    display: flex;
+}
+
+.logoGithub{
+    width: 30px;
+    margin-right: 5px;
+}
+
+.logo svg {
+        width: 125px;
+        height: 50px;
+}
+
+@media screen and (max-width: 600px) {
+    .header {
+        padding: 1em .5em;
+    }
+
+    .header .logo:last-child {
+        display: none;
+    }
+}
